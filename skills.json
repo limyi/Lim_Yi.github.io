@@ -38,5 +38,10 @@
     {
         "name": "Ubuntu",
         "icon": "https://img.icons8.com/color/48/null/ubuntu--v1.png"
+    },
+    {
+        "name": "Path Planning",
+        "icon": "https://img.icons8.com/ios-filled/50/null/waypoint-map.png"
     }
+    
 ]
