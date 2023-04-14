@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Lim Yi";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/Lim_Yi_Formal_Passport_Photo.jpg");
         }
         else {
             document.title = "Lim Yi's Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            $("#favicon").attr("href", "assets/images/Lim_Yi_Formal_Passport_Photo.jpg");
         }
     });
 
