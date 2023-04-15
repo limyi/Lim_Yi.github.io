@@ -52,11 +52,11 @@
   {
     "name": "Rotation local planner for self reconfigurable robot",
     "desc": "Anti-collision static rotation local planner.",
-    "image": "flipkartmern",
+    "image": "rotation_about_ICR_collision.png",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://ieeexplore.ieee.org/abstract/document/9812445",
+      "code": "https://drive.google.com/file/d/1bfr0csUOe24rzcTPkFIC5SykArNqi654/view"
     }
   },
   {
