@@ -36,17 +36,17 @@
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "code": "https://drive.google.com/file/d/15ITnUW0A8bn_7hiJ36TK3FAei8wmvy7N/view?pli=1"
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Panthera",
+    "desc": "Self-reconfigurable pavement sweeping robot",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "Paper": "https://instagramernstack.herokuapp.com/",
+      "Video": "https://github.com/jigar-sable/instagram-mern"
     }
   },
   {
