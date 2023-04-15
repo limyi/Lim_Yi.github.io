@@ -70,7 +70,7 @@
     }
   },
   {
-    "name": "React-Projects",
+    "name": "Shared Autonomy",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
     "image": "reactprojects",
     "category": "mern",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "Complete coverage path planning for self reconfigurable robot",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
     "image": "flipkartphp",
     "category": "lamp",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
+    "name": "Design of PantheraV3",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
     "image": "jspro",
     "category": "basicweb",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "name": "Web UI Clones",
+    "name": "Deep learning CNN",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
     "image": "webuiclones",
     "category": "mern",
