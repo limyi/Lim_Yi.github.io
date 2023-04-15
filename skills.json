@@ -20,8 +20,8 @@
         "icon": "https://img.icons8.com/external-royyan-wijaya-detailed-outline-royyan-wijaya/24/null/external-dots-interface-royyan-wijaya-detailed-outline-royyan-wijaya.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "name": "Path Planning",
+        "icon": "https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/null/external-gps-map-and-navigation-kmg-design-outline-color-kmg-design-1.png"
     },
     {
         "name": "C++",
@@ -40,8 +40,8 @@
         "icon": "https://img.icons8.com/color/48/null/ubuntu--v1.png"
     },
     {
-        "name": "Path Planning",
-        "icon": "https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/null/external-gps-map-and-navigation-kmg-design-outline-color-kmg-design-1.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     }
     
 ]
