@@ -41,7 +41,7 @@
   },
   {
     "name": "Panthera",
-    "desc": "Self-reconfigurable pavement sweeping robot",
+    "desc": "Design of a self-reconfigurable pavement sweeping robot",
     "image": "conceptual_design",
     "category": "mern",
     "links": {
@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Rotation local planner for self reconfigurable robot",
+    "name": "Local planner for self reconfigurable robot",
     "desc": "Anti-collision static rotation local planner.",
     "image": "rotation_about_ICR_collision",
     "category": "mern",
