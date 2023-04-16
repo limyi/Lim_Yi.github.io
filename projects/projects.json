@@ -72,7 +72,7 @@
   {
     "name": "Shared Autonomy",
     "desc": "Shared Autonomy for Safety Between a Self-reconfigurable Robot and a Teleoperator Using Multi-layer Fuzzy Logic.",
-    "image": "reactprojects",
+    "image": "system_description_rev_1",
     "category": "mern",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9981872",
