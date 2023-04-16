@@ -52,7 +52,7 @@
   {
     "name": "Reconfigurable robot local planner",
     "desc": "Anti-collision static rotation local planner.",
-    "image": "rotation_about_ICR_collision",
+    "image": "rotation",
     "category": "mern",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9812445",
