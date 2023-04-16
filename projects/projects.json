@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Local planner for self reconfigurable robot",
+    "name": "Reconfigurable robot local planner",
     "desc": "Anti-collision static rotation local planner.",
     "image": "rotation_about_ICR_collision",
     "category": "mern",
