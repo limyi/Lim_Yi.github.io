@@ -42,7 +42,7 @@
   {
     "name": "Panthera",
     "desc": "Design of a self-reconfigurable pavement sweeping robot",
-    "image": "conceptual_design",
+    "image": "Panthera_expand_compress",
     "category": "mern",
     "links": {
       "view": "https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/144/6/063305/1131540/Reconfigurable-Robotic-System-Design-With",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Reconfigurable robot local planner",
-    "desc": "Anti-collision static rotation local planner.",
+    "desc": "Anti-collision static rotation local planner for four independent steering drive self-reconfigurable robot.",
     "image": "rotation",
     "category": "mern",
     "links": {
