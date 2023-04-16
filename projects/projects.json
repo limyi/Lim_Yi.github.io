@@ -71,12 +71,12 @@
   },
   {
     "name": "Shared Autonomy",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "desc": "Shared Autonomy for Safety Between a Self-reconfigurable Robot and a Teleoperator Using Multi-layer Fuzzy Logic.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://ieeexplore.ieee.org/abstract/document/9981872",
+      "code": "https://drive.google.com/file/d/18pEjfoIpbpMBHJS_SrNnL0QvVemV4ybC/view?usp=sharing"
     }
   },
   {
