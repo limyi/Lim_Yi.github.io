@@ -80,13 +80,13 @@
     }
   },
   {
-    "name": "Complete coverage path planning for self reconfigurable robot",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "name": "CCPP for self reconfigurable robot",
+    "desc": "Complete Coverage Path Planning for Reconfigurable omni-directional mobile robots with varying width using GBNN(n).",
+    "image": "ccppgbnnn",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://drive.google.com/file/d/1YI1Z85Il7rDkh320TB3hTUOOpwIm5GIx/view?usp=sharing",
+      "code": "https://drive.google.com/file/d/1YI1Z85Il7rDkh320TB3hTUOOpwIm5GIx/view?usp=sharing"
     }
   },
   {
