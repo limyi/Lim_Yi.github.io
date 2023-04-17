@@ -160,6 +160,16 @@
     }
   },
   {
+    "name": "Vision based adaptive control",
+    "desc": "Deep Learning based Litter Identification and Adaptive Cleaning using Self-reconfigurable Pavement Sweeping Robot.",
+    "image": "case2022",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ieeexplore.ieee.org/abstract/document/9926489",
+      "code": "https://drive.google.com/file/d/1-QzYtWo3fzROfLT8q5c5NtWLmA77Jy4w/view"
+    }
+  },
+  {
     "name": "False Ceiling Deterioration Detection",
     "desc": "False Ceiling Deterioration Detection and Mapping Using a Deep Learning Framework and the Teleoperated Reconfigurable ‘Falcon’ Robot.",
     "image": "falseceiling",
@@ -177,16 +187,6 @@
     "links": {
       "view": "https://www.mdpi.com/2227-7390/10/17/3169",
       "code": "https://www.mdpi.com/article/10.3390/math10173169/s1"
-    }
-  },
-  {
-    "name": "Vision based adaptive control",
-    "desc": "Deep Learning based Litter Identification and Adaptive Cleaning using Self-reconfigurable Pavement Sweeping Robot.",
-    "image": "case2022",
-    "category": "basicweb",
-    "links": {
-      "view": "https://ieeexplore.ieee.org/abstract/document/9926489",
-      "code": "https://drive.google.com/file/d/1-QzYtWo3fzROfLT8q5c5NtWLmA77Jy4w/view"
     }
   },
   {
