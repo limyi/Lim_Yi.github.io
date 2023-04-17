@@ -23,7 +23,7 @@
     "name": "Reconfigurable robot local planner",
     "desc": "Anti-collision static rotation local planner for four independent steering drive self-reconfigurable robot.",
     "image": "rotation",
-    "category": "mern",
+    "category": "lamp",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9812445",
       "code": "https://drive.google.com/file/d/1bfr0csUOe24rzcTPkFIC5SykArNqi654/view"
@@ -33,7 +33,7 @@
     "name": "Multi Sensor Fusion",
     "desc": "Adaptive transformation matrix when sensors move relative to each other.",
     "image": "outdoorFused",
-    "category": "mern",
+    "category": "basicweb",
     "links": {
       "view": "https://ieeexplore.ieee.org/document/9636464",
       "code": "https://drive.google.com/file/d/1tfpm43o0Lg0YVfiNeGHbrZNCWQ38JnhV/view?usp=sharing"
@@ -43,7 +43,7 @@
     "name": "Shared Autonomy",
     "desc": "Shared Autonomy for Safety Between a Self-reconfigurable Robot and a Teleoperator Using Multi-layer Fuzzy Logic.",
     "image": "system_description_rev_1",
-    "category": "mern",
+    "category": "lamp",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9981872",
       "code": "https://drive.google.com/file/d/18pEjfoIpbpMBHJS_SrNnL0QvVemV4ybC/view?usp=sharing"
@@ -63,7 +63,7 @@
     "name": "Design of PantheraV3",
     "desc": "Iterations in Design and Development Process Illustrated Using Reconfigurable Robot Case Study.",
     "image": "panv3",
-    "category": "basicweb",
+    "category": "mern",
     "links": {
       "view": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V006T06A039/1150559",
       "code": "https://drive.google.com/file/d/15iGs5eXLTVjz2s2AQzGcwihm_5e1SbQR/view?usp=sharing"
@@ -73,7 +73,7 @@
     "name": "Inspection Framework",
     "desc": "Deep Learning Based Pavement Inspection Using Self-Reconfigurable Robot.",
     "image": "deeplearningcnnbala",
-    "category": "mern",
+    "category": "basicweb",
     "links": {
       "view": "https://www.mdpi.com/1424-8220/21/8/2595",
       "code": "https://www.mdpi.com/1424-8220/21/8/2595"
@@ -103,7 +103,7 @@
     "name": "Vision Feedback Planner",
     "desc": "Reconfiguration During Locomotion by Pavement Sweeping Robot With Feedback Control From Vision System.",
     "image": "vision_feedback",
-    "category": "basicweb",
+    "category": "lamp",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9120028",
       "code": "https://ieeexplore.ieee.org/abstract/document/9120028"
@@ -113,7 +113,7 @@
     "name": "Pedestrain Avoidance",
     "desc": "Locomotion with Pedestrian Aware from Perception Sensor by Pavement Sweeping Reconfigurable Robot.",
     "image": "pedestrian_RGB_D",
-    "category": "basicweb",
+    "category": "lamp",
     "links": {
       "view": "https://www.mdpi.com/1424-8220/21/5/1745",
       "code": "https://www.mdpi.com/1424-8220/21/5/1745"
@@ -123,7 +123,7 @@
     "name": "Heat based path planning",
     "desc": "Heat conduction combined grid-based optimization method for reconfigurable pavement sweeping robot path planning.",
     "image": "heatbase",
-    "category": "android",
+    "category": "lamp",
     "links": {
       "view": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000318",
       "code": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000318"
@@ -133,7 +133,7 @@
     "name": "Forward collision warning system",
     "desc": "Forward collision warning system for motorcyclist using smart phone sensors based on time-to-collision and trajectory prediction.",
     "image": "forwardcollision",
-    "category": "lamp",
+    "category": "basicweb",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9999396",
       "code": "https://ieeexplore.ieee.org/abstract/document/9999396"
@@ -173,7 +173,7 @@
     "name": "Multi-Objective Function Local Planner",
     "desc": "Multi-Objective Instantaneous Center of Rotation Optimization Using Sensors Feedback for Navigation in Self-Reconfigurable Pavement Sweeping Robot.",
     "image": "mofmathematics",
-    "category": "basicweb",
+    "category": "lamp",
     "links": {
       "view": "https://www.mdpi.com/2227-7390/10/17/3169",
       "code": "https://www.mdpi.com/article/10.3390/math10173169/s1"
@@ -183,7 +183,7 @@
     "name": "Vision based adaptive control",
     "desc": "Deep Learning based Litter Identification and Adaptive Cleaning using Self-reconfigurable Pavement Sweeping Robot.",
     "image": "case2022",
-    "category": "mern",
+    "category": "basicweb",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/9926489",
       "code": "https://drive.google.com/file/d/1-QzYtWo3fzROfLT8q5c5NtWLmA77Jy4w/view"
@@ -193,7 +193,7 @@
     "name": "Bi-Arm 3D Path Planning",
     "desc": "Compete Area-coverage Path Planner for Surface Cleaning in Hospital Settings using Mobile Dual-arm Robot and GBNN with Heuristics.",
     "image": "biarm",
-    "category": "basicweb",
+    "category": "lamp",
     "links": {
       "view": "#",
       "code": "#"
