@@ -70,7 +70,7 @@
     }
   },
   {
-    "name": "Inspection Robot",
+    "name": "Inspection Framework",
     "desc": "Deep Learning Based Pavement Inspection Using Self-Reconfigurable Robot.",
     "image": "deeplearningcnnbala",
     "category": "mern",
@@ -120,63 +120,63 @@
     }
   },
   {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
+    "name": "Heat based path planning",
+    "desc": "Heat conduction combined grid-based optimization method for reconfigurable pavement sweeping robot path planning.",
+    "image": "headbase",
     "category": "android",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      "view": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000318",
+      "code": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000318"
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
+    "name": "Forward collision warning system",
+    "desc": "Forward collision warning system for motorcyclist using smart phone sensors based on time-to-collision and trajectory prediction.",
+    "image": "forwardcollision",
     "category": "lamp",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://ieeexplore.ieee.org/abstract/document/9999396",
+      "code": "https://ieeexplore.ieee.org/abstract/document/9999396"
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
+    "name": "Multisensor fusion",
+    "desc": "Multisensor fusion in Reconfigurable Robots using Adaptive Transformation.",
+    "image": "nirfusion",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://ieeexplore.ieee.org/abstract/document/9666081",
+      "code": "https://ieeexplore.ieee.org/abstract/document/9666081"
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "name": "Vision Pipeline for Safety",
+    "desc": "Self-reconfigurable robot vision pipeline for safer adaptation to varying pavements width and surface conditions.",
+    "image": "safetyvivion",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.nature.com/articles/s41598-022-17858-w",
+      "code": "https://www.nature.com/articles/s41598-022-17858-w"
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
+    "name": "False Ceiling Deterioration Detection",
+    "desc": "False Ceiling Deterioration Detection and Mapping Using a Deep Learning Framework and the Teleoperated Reconfigurable ‘Falcon’ Robot.",
+    "image": "falseceiling",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.mdpi.com/1424-8220/22/1/262",
+      "code": "https://www.mdpi.com/1424-8220/22/1/262"
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
+    "name": "Multi-Objective Function Local Planner",
+    "desc": "Multi-Objective Instantaneous Center of Rotation Optimization Using Sensors Feedback for Navigation in Self-Reconfigurable Pavement Sweeping Robot.",
+    "image": "mofmathematics",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.mdpi.com/2227-7390/10/17/3169",
+      "code": "https://www.mdpi.com/article/10.3390/math10173169/s1"
     }
   },
   {
