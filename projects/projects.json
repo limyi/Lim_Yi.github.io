@@ -122,7 +122,7 @@
   {
     "name": "Heat based path planning",
     "desc": "Heat conduction combined grid-based optimization method for reconfigurable pavement sweeping robot path planning.",
-    "image": "headbase",
+    "image": "heatbase",
     "category": "android",
     "links": {
       "view": "https://www.sciencedirect.com/science/article/abs/pii/S0921889022000318",
