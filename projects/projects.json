@@ -1,42 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "name": "Slosh Control",
+    "desc": "A robust output feedback strategy for liquid handling using reconfigurable robots.",
+    "image": "slosh_control",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
-    }
-  },
-  {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
-    }
-  },
-  {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
-    }
-  },
-  {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://drive.google.com/file/d/15ITnUW0A8bn_7hiJ36TK3FAei8wmvy7N/view?pli=1"
+      "view": "https://www.sciencedirect.com/science/article/abs/pii/S092658052100251X",
+      "code": "https://www.sciencedirect.com/science/article/abs/pii/S092658052100251X"
     }
   },
   {
@@ -100,53 +70,53 @@
     }
   },
   {
-    "name": "Deep learning CNN",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
+    "name": "Inspection Robot",
+    "desc": "Deep Learning Based Pavement Inspection Using Self-Reconfigurable Robot.",
+    "image": "deeplearningcnnbala",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "https://www.mdpi.com/1424-8220/21/8/2595",
+      "code": "https://www.mdpi.com/1424-8220/21/8/2595"
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
+    "name": "Saturated Controller",
+    "desc": "An Output Feedback Based Robust Saturated Controller Design for Pavement Sweeping Self-Reconfigurable Robot.",
+    "image": "saturated_Controller",
+    "category": "android",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "view": "https://ieeexplore.ieee.org/abstract/document/9369849",
+      "code": "https://ieeexplore.ieee.org/abstract/document/9369849"
     }
   },
   {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
+    "name": "Switch Adaptive Controller",
+    "desc": "Introducing Switched Adaptive Control for Self-Reconfigurable Mobile Cleaning Robots.",
+    "image": "adaptiveswitch",
+    "category": "android",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "https://ieeexplore.ieee.org/abstract/document/10082944",
+      "code": "https://ieeexplore.ieee.org/abstract/document/10082944"
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "name": "Vision Feedback Planner",
+    "desc": "Reconfiguration During Locomotion by Pavement Sweeping Robot With Feedback Control From Vision System.",
+    "image": "vision_feedback",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "https://ieeexplore.ieee.org/abstract/document/9120028",
+      "code": "https://ieeexplore.ieee.org/abstract/document/9120028"
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
+    "name": "Pedestrain Avoidance",
+    "desc": "Locomotion with Pedestrian Aware from Perception Sensor by Pavement Sweeping Reconfigurable Robot.",
+    "image": "pedestrian_RGB_D",
     "category": "basicweb",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "https://www.mdpi.com/1424-8220/21/5/1745",
+      "code": "https://www.mdpi.com/1424-8220/21/5/1745"
     }
   },
   {
