@@ -190,6 +190,16 @@
     }
   },
   {
+    "name": "Ros Melodic Move Base",
+    "desc": "Panthera Gazebo Move Base.",
+    "image": "move_base1",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/limyi/Gazebo_move_base",
+      "code": "https://github.com/limyi/Gazebo_move_base"
+    }
+  },
+  {
     "name": "Bi-Arm 3D Path Planning",
     "desc": "Compete Area-coverage Path Planner for Surface Cleaning in Hospital Settings using Mobile Dual-arm Robot and GBNN with Heuristics.",
     "image": "biarm",
