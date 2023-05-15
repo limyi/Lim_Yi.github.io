@@ -200,10 +200,10 @@
     }
   },
   {
-    "name": "Autonomous Marine Debris Collector",
-    "desc": "Undergraduate final year project.",
+    "name": "Design of an Autonomous Marine Debris Collector",
+    "desc": "Design of an Autonomous Marine Debris Collector as part of the undergraduate capstone project.",
     "image": "amdc",
-    "category": "lamp",
+    "category": "mern",
     "links": {
       "view": "https://tnp.straitstimes.com/news/singapore/more-partners-join-sutd-its-capstone-project-showcase",
       "code": "https://www.zaobao.com.sg/news/singapore/story20170812-786438"
