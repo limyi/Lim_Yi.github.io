@@ -200,6 +200,17 @@
     }
   },
   {
+    "name": "Autonomous Marine Debris Collector",
+    "desc": "Undergraduate final year project.",
+    "image": "amdc",
+    "category": "lamp",
+    "links": {
+      "view": "https://tnp.straitstimes.com/news/singapore/more-partners-join-sutd-its-capstone-project-showcase",
+      "code": "https://www.zaobao.com.sg/news/singapore/story20170812-786438"
+    }
+  },
+  
+  {
     "name": "Bi-Arm 3D Path Planning",
     "desc": "Compete Area-coverage Path Planner for Surface Cleaning in Hospital Settings using Mobile Dual-arm Robot and GBNN with Heuristics.",
     "image": "biarm",
