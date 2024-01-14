@@ -19,7 +19,7 @@
       "code": "https://drive.google.com/file/d/15ITnUW0A8bn_7hiJ36TK3FAei8wmvy7N/view?pli=1"
     }
   },
-  ,
+  
   {
     "name": "CCPP for self reconfigurable robot using DFS",
     "desc": "Complete Coverage Path Planning for Omnidirectional Expand and Collapse Robot Panthera.",
@@ -29,7 +29,7 @@
       "view": "https://ieeexplore.ieee.org/document/10342525/",
       "code": "https://drive.google.com/file/d/1Gztw32dDPdCJl7zDLo_uDNM3klavDXAE/view?usp=sharing"
     }
-  }
+  },
   {
     "name": "Reconfigurable robot local planner",
     "desc": "Anti-collision static rotation local planner for four independent steering drive self-reconfigurable robot.",
